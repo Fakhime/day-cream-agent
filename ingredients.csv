@@ -1,0 +1,117 @@
+inci_name,aliases,group,function,features,best_for,be_careful,concerns,evidence,notes
+Aqua,water|eau|aqua/water,Base / solvent,Solvent,Forms the base of the cream and dissolves water-soluble ingredients,All,,,N/A,Usually the first ingredient
+Glycerin,glycerol|glycerine,Humectant,Humectant; skin conditioning,Draws water into the skin; improves hydration and softness,All,,Dryness; dehydration,Strong,One of the most proven moisturising ingredients
+Sodium Hyaluronate,hyaluronic acid|hyaluronan|sodium hyaluronate crosspolymer|hydrolyzed hyaluronic acid,Humectant,Humectant; skin conditioning,Holds water in the skin; plumps and smooths fine lines temporarily,All,,Dehydration; fine lines,Strong,Works best under a moisturiser layer
+Butylene Glycol,,Humectant,Humectant; solvent,Light hydration; helps other ingredients spread and absorb,All,,Dehydration,Good,Rarely irritating
+Propanediol,,Humectant,Humectant; solvent,Lightweight hydration; plant-derived alternative to glycols,All,,Dehydration,Good,
+Pentylene Glycol,,Humectant,Humectant; preservative booster,Hydrates and helps protect the formula from microbes,All,,Dehydration,Good,
+Sodium PCA,,Humectant,Humectant (natural moisturising factor),Part of the skin's own moisturising system; boosts hydration,All,,Dryness,Good,
+Betaine,,Humectant,Humectant; skin conditioning,Gentle hydration; may reduce irritation from other ingredients,All; Sensitive,,Dehydration,Good,
+Urea,,Humectant,Humectant; skin conditioning,Hydrates and smooths rough skin; mild exfoliation at higher strengths,Dry; Mature; Normal,Sensitive,Rough texture; dryness,Strong,May sting on broken or very sensitive skin
+Panthenol,provitamin b5|d-panthenol|dexpanthenol,Soothing agent,Skin conditioning; humectant,Soothes; supports barrier repair; hydrates,All; Sensitive,,Redness; irritation; dryness,Good,
+Niacinamide,vitamin b3|nicotinamide,Active,Skin conditioning,Strengthens barrier; evens tone; reduces redness and visible pores; balances oil,Oily; Combination; Acne-prone; Normal; Mature; Dry,Sensitive,Pigmentation; enlarged pores; redness; oiliness,Strong,Very sensitive skin may react at concentrations above ~5%
+Tocopherol,vitamin e,Antioxidant,Antioxidant; skin conditioning,Protects skin and formula from free-radical damage; supports barrier,Dry; Normal; Mature,,Environmental damage; dryness,Good,Also protects oils in the formula from going rancid
+Tocopheryl Acetate,vitamin e acetate,Antioxidant,Antioxidant; skin conditioning,Stable form of vitamin E; conditions skin,Dry; Normal; Mature,,Environmental damage,Limited,Less active than pure tocopherol
+Ascorbic Acid,vitamin c|l-ascorbic acid,Antioxidant,Antioxidant,Brightens; supports collagen; boosts sun protection alongside sunscreen,Normal; Oily; Combination; Mature,Sensitive,Dullness; pigmentation; fine lines,Strong,Unstable; low pH may sting sensitive skin
+Sodium Ascorbyl Phosphate,,Antioxidant,Antioxidant,Stable vitamin C derivative; brightening; gentle antibacterial effect,Oily; Acne-prone; Normal; Combination; Sensitive,,Dullness; blemishes,Good,Gentler than pure vitamin C
+Ascorbyl Glucoside,,Antioxidant,Antioxidant,Stable vitamin C derivative; brightening,All,,Dullness; pigmentation,Limited,
+3-O-Ethyl Ascorbic Acid,ethyl ascorbic acid,Antioxidant,Antioxidant,Stable vitamin C derivative; brightening,All,,Pigmentation; dullness,Limited,
+Ubiquinone,coenzyme q10|q10|coq10,Antioxidant,Antioxidant,Protects against oxidative stress linked to skin ageing,Mature; Normal; Dry,,Fine lines; environmental damage,Limited,
+Camellia Sinensis Leaf Extract,green tea extract,Antioxidant,Antioxidant; soothing,Antioxidant and calming; may help reduce oiliness,All; Oily; Sensitive; Acne-prone,,Redness; environmental damage,Good,
+Resveratrol,,Antioxidant,Antioxidant,Plant antioxidant that protects against environmental stress,Mature; Normal,,Environmental damage,Limited,
+Ferulic Acid,,Antioxidant,Antioxidant,Stabilises and boosts vitamins C and E,Mature; Normal; Combination,,Environmental damage,Good,
+Retinol,vitamin a,Active,Skin conditioning (retinoid),Boosts cell renewal; smooths wrinkles and texture; helps blemishes,Mature; Acne-prone; Normal; Oily,Sensitive; Dry,Fine lines; uneven texture; blemishes,Strong,Usually used at night; increases sun sensitivity; avoid in pregnancy
+Retinyl Palmitate,vitamin a palmitate,Active,Skin conditioning (mild retinoid),Very mild vitamin A form; light renewal effect,Mature; Normal,Sensitive,Fine lines,Limited,Much weaker than retinol; avoid in pregnancy
+Bakuchiol,,Active,Antioxidant; skin conditioning,Plant alternative to retinol; smooths and firms with less irritation,Mature; Sensitive; Normal,,Fine lines; uneven texture,Limited,Suitable for day use
+Palmitoyl Pentapeptide-4,matrixyl,Active,Skin conditioning (peptide),Signal peptide that supports firmness and fewer visible wrinkles,Mature; Normal; Dry,,Fine lines; loss of firmness,Limited,
+Palmitoyl Tripeptide-1,,Active,Skin conditioning (peptide),Signal peptide supporting collagen,Mature,,Fine lines,Limited,Often paired with palmitoyl tetrapeptide-7
+Acetyl Hexapeptide-8,argireline|acetyl hexapeptide-3,Active,Skin conditioning (peptide),May soften expression lines,Mature,,Expression lines,Limited,
+Adenosine,,Active,Skin conditioning,Smooths wrinkles; soothing,Mature; Normal; Dry,,Fine lines,Good,
+Lactic Acid,,Active,Exfoliant (AHA); humectant; pH adjuster,Gentle exfoliation; brightens; hydrates,Normal; Dry; Mature; Combination,Sensitive,Dullness; rough texture,Strong,Use sunscreen; at low levels it only adjusts pH
+Glycolic Acid,,Active,Exfoliant (AHA),Exfoliates; brightens; smooths texture,Normal; Oily; Mature; Combination,Sensitive; Dry,Dullness; pigmentation; texture,Strong,Increases sun sensitivity
+Salicylic Acid,bha|beta hydroxy acid,Active,Exfoliant (BHA),Unclogs pores; reduces blemishes and oil,Oily; Acne-prone; Combination,Dry; Sensitive,Blackheads; blemishes; oiliness,Strong,EU limit for leave-on face products is 2%
+Alpha-Arabutin,arbutin,Active,Brightening,Fades dark spots by reducing pigment formation,All,,Pigmentation,Good,
+Tranexamic Acid,,Active,Brightening,Reduces dark spots and redness,All,,Pigmentation; melasma,Good,
+Ceramide NP,ceramide 3,Barrier lipid,Skin conditioning,Rebuilds the skin barrier and reduces water loss,Dry; Sensitive; Mature; Normal,,Dryness; barrier damage,Strong,
+Ceramide AP,ceramide 6 ii,Barrier lipid,Skin conditioning,Supports barrier and smoothness,Dry; Sensitive; Mature; Normal,,Dryness; barrier damage,Good,
+Ceramide EOP,ceramide 1,Barrier lipid,Skin conditioning,Supports barrier structure,Dry; Sensitive; Mature; Normal,,Dryness; barrier damage,Good,
+Cholesterol,,Barrier lipid,Emollient; skin conditioning,Barrier lipid that works with ceramides,Dry; Sensitive; Mature,,Dryness; barrier damage,Good,
+Phytosphingosine,,Barrier lipid,Skin conditioning,Supports barrier; may help blemish-prone skin,All,,Barrier damage; blemishes,Limited,
+Squalane,,Emollient,Emollient,Light; non-greasy softening oil similar to skin's own lipids,All,,Dryness; roughness,Good,Rarely clogs pores
+Caprylic/Capric Triglyceride,,Emollient,Emollient; solvent,Light emollient from coconut; softens without heaviness,All,,Dryness,Good,
+Butyrospermum Parkii Butter,shea butter|butyrospermum parkii (shea) butter,Emollient,Emollient; occlusive,Rich nourishment; reduces water loss,Dry; Mature,Oily; Acne-prone,Dryness; roughness,Good,Can feel heavy on oily skin
+Simmondsia Chinensis Seed Oil,jojoba oil|simmondsia chinensis (jojoba) seed oil,Emollient,Emollient,Similar to skin's sebum; balances and softens,All,,Dryness,Good,
+Argania Spinosa Kernel Oil,argan oil,Emollient,Emollient,Nourishing oil rich in vitamin E,Dry; Normal; Mature,Acne-prone,Dryness,Limited,
+Prunus Amygdalus Dulcis Oil,sweet almond oil,Emollient,Emollient,Softening oil,Dry; Normal,Acne-prone,Dryness,Limited,Avoid with nut allergy
+Isopropyl Myristate,,Emollient,Emollient,Makes cream feel silky and spread easily,Dry; Normal,Acne-prone; Oily,Dryness,N/A,Known to clog pores in some people
+Isopropyl Palmitate,,Emollient,Emollient,Silky texture,Dry; Normal,Acne-prone; Oily,Dryness,N/A,Can clog pores in some people
+Isononyl Isononanoate,,Emollient,Emollient,Light; dry-touch emollient,All,,Dryness,N/A,
+Coco-Caprylate/Caprate,,Emollient,Emollient,Light silicone-like feel,All,,Dryness,N/A,
+Dicaprylyl Carbonate,,Emollient,Emollient,Very light; fast-absorbing,All,,Dryness,N/A,
+C12-15 Alkyl Benzoate,,Emollient,Emollient; UV filter solvent,Light feel; helps dissolve sunscreen filters,All,,,N/A,
+Cetearyl Alcohol,,Emollient,Emollient; emulsion stabiliser; thickener,Fatty alcohol that softens and thickens,All,,Dryness,N/A,Not a drying alcohol
+Cetyl Alcohol,,Emollient,Emollient; emulsion stabiliser,Fatty alcohol that softens and thickens,All,,Dryness,N/A,Not a drying alcohol
+Stearyl Alcohol,,Emollient,Emollient; emulsion stabiliser,Fatty alcohol that softens and thickens,All,,Dryness,N/A,Not a drying alcohol
+Behenyl Alcohol,,Emollient,Emollient; thickener,Fatty alcohol that softens and thickens,All,,Dryness,N/A,Not a drying alcohol
+Dimethicone,,Occlusive / silicone,Skin protecting; emollient,Forms a breathable protective film; smooth; silky feel,All,,Dryness; water loss,Good,Generally non-comedogenic
+Cyclopentasiloxane,,Occlusive / silicone,Emollient (volatile silicone),Gives a light; fast-drying silky feel then evaporates,Oily; Combination; Normal,,,N/A,EU restricts it in wash-off products
+Petrolatum,vaseline|petroleum jelly,Occlusive,Occlusive; skin protecting,Very strong barrier against water loss,Dry; Sensitive,Oily; Acne-prone,Dryness; barrier damage,Strong,Can feel heavy
+Paraffinum Liquidum,mineral oil|paraffin oil,Occlusive,Emollient; occlusive,Locks in moisture; gentle,Dry; Sensitive,Oily; Acne-prone,Dryness,Good,Cosmetic grade is highly purified
+Cera Alba,beeswax,Occlusive,Emollient; film forming,Protective layer; thickens,Dry,Acne-prone,Dryness,N/A,
+Zinc Oxide,ci 77947,UV filter (mineral),UV filter,Broad UVA and UVB protection; soothing,All; Sensitive; Acne-prone,,Sun protection,Strong,May leave a white cast
+Titanium Dioxide,ci 77891,UV filter (mineral),UV filter; colorant,Mainly UVB and some UVA protection,All; Sensitive,,Sun protection,Strong,May leave a white cast
+Butyl Methoxydibenzoylmethane,avobenzone,UV filter (chemical),UV filter (UVA),Strong UVA protection,All,Sensitive,Sun protection; photoageing,Strong,Needs stabilising filters such as octocrylene
+Ethylhexyl Methoxycinnamate,octinoxate,UV filter (chemical),UV filter (UVB),UVB protection,All,Sensitive,Sun protection,Good,
+Homosalate,,UV filter (chemical),UV filter (UVB),UVB protection,All,Sensitive,Sun protection,Good,EU limit for face products is 7.34%
+Octocrylene,,UV filter (chemical),UV filter (UVB),UVB protection; stabilises avobenzone,All,Sensitive,Sun protection,Good,Occasional allergy
+Ethylhexyl Salicylate,octisalate,UV filter (chemical),UV filter (UVB),UVB protection,All,,Sun protection,Good,
+Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine,tinosorb s|bemotrizinol,UV filter (chemical),UV filter (broad spectrum),Very stable UVA and UVB protection; well tolerated,All; Sensitive,,Sun protection; photoageing,Strong,
+Methylene Bis-Benzotriazolyl Tetramethylbutylphenol,tinosorb m|bisoctrizole,UV filter (chemical),UV filter (broad spectrum),Stable UVA and UVB protection,All; Sensitive,,Sun protection,Strong,
+Ethylhexyl Triazone,uvinul t 150,UV filter (chemical),UV filter (UVB),Very strong and stable UVB protection,All,,Sun protection,Strong,
+Diethylamino Hydroxybenzoyl Hexyl Benzoate,uvinul a plus,UV filter (chemical),UV filter (UVA),Stable UVA protection,All,,Sun protection; photoageing,Strong,
+Drometrizole Trisiloxane,mexoryl xl,UV filter (chemical),UV filter (broad spectrum),Stable UVA and UVB protection,All,,Sun protection,Good,
+Terephthalylidene Dicamphor Sulfonic Acid,mexoryl sx|ecamsule,UV filter (chemical),UV filter (UVA),Stable UVA protection,All,,Sun protection; photoageing,Good,
+Centella Asiatica Extract,cica|centella asiatica leaf extract|madecassoside|asiaticoside,Soothing agent,Skin conditioning; soothing,Calms redness; supports skin repair,Sensitive; Acne-prone; All,,Redness; irritation,Good,
+Allantoin,,Soothing agent,Skin conditioning; soothing,Soothes and softens; supports healing,All; Sensitive,,Irritation; roughness,Good,
+Bisabolol,alpha-bisabolol,Soothing agent,Soothing,Calming ingredient from chamomile,All; Sensitive,,Redness; irritation,Good,
+Aloe Barbadensis Leaf Juice,aloe vera|aloe barbadensis leaf extract,Soothing agent,Skin conditioning; soothing,Soothes and lightly hydrates,All; Sensitive; Oily,,Irritation; redness,Good,
+Dipotassium Glycyrrhizate,licorice extract|glycyrrhiza glabra root extract,Soothing agent,Soothing; skin conditioning,Reduces redness; mild brightening,All; Sensitive,,Redness; pigmentation,Good,
+Avena Sativa Kernel Flour,colloidal oatmeal|oat kernel flour|avena sativa (oat) kernel flour,Soothing agent,Skin protecting; soothing,Relieves itch and irritation; protects,Sensitive; Dry,,Itch; irritation,Strong,
+Madecassoside,,Soothing agent,Soothing,Purified centella compound; calms and repairs,Sensitive; Acne-prone,,Redness,Good,
+Glyceryl Stearate,glyceryl stearate se,Emulsifier,Emulsifier; emollient,Keeps oil and water mixed; softens,All,,,N/A,
+PEG-100 Stearate,,Emulsifier,Emulsifier,Keeps oil and water mixed,All,,,N/A,
+Ceteareth-20,,Emulsifier,Emulsifier,Keeps oil and water mixed,All,,,N/A,
+Polysorbate 20,,Emulsifier,Emulsifier; solubiliser,Helps dissolve oils and fragrance in water,All,,,N/A,
+Polysorbate 60,,Emulsifier,Emulsifier,Keeps oil and water mixed,All,,,N/A,
+Cetearyl Glucoside,,Emulsifier,Emulsifier,Plant-derived gentle emulsifier,All,,,N/A,
+Potassium Cetyl Phosphate,,Emulsifier,Emulsifier,Stable emulsifier; common in sunscreens,All,,,N/A,
+Sorbitan Stearate,,Emulsifier,Emulsifier,Keeps oil and water mixed,All,,,N/A,
+Carbomer,,Thickener,Viscosity controlling,Gives gel or cream texture,All,,,N/A,
+Xanthan Gum,,Thickener,Viscosity controlling,Natural thickener; stabilises texture,All,,,N/A,
+Sodium Polyacrylate,,Thickener,Viscosity controlling; film forming,Thickens and stabilises,All,,,N/A,
+Acrylates/C10-30 Alkyl Acrylate Crosspolymer,,Thickener,Viscosity controlling; emulsion stabiliser,Light gel texture,All,,,N/A,
+Ammonium Acryloyldimethyltaurate/VP Copolymer,,Thickener,Viscosity controlling,Light gel-cream texture,All,,,N/A,
+Silica,,Texture / absorbent,Absorbent; opacifying,Absorbs oil; gives matte velvety finish,Oily; Combination,,Shine,N/A,
+Phenoxyethanol,,Preservative,Preservative,Protects the product from bacteria and mould,All,,,N/A,EU limit 1%; rarely irritating
+Ethylhexylglycerin,,Preservative,Preservative booster; skin conditioning,Boosts preservatives; conditions skin,All,,,N/A,
+Caprylyl Glycol,,Preservative,Humectant; preservative booster,Hydrates and supports preservation,All,,,N/A,
+Methylparaben,,Preservative,Preservative,Protects the product from microbes,All,,,N/A,Well studied and EU-permitted with limits
+Propylparaben,,Preservative,Preservative,Protects the product from microbes,All,,,N/A,EU limits its concentration
+Sodium Benzoate,,Preservative,Preservative,Protects the product from microbes,All,,,N/A,
+Potassium Sorbate,,Preservative,Preservative,Protects the product from mould,All,,,N/A,
+Chlorphenesin,,Preservative,Preservative,Protects the product from microbes,All,,,N/A,
+Hydroxyacetophenone,,Antioxidant,Antioxidant; preservative booster; soothing,Supports preservation and calms skin,All,,,Limited,
+Sodium Hydroxide,,pH adjuster,Buffering,Adjusts pH; neutralised in the final product,All,,,N/A,Harmless at the tiny amounts used
+Citric Acid,,pH adjuster,Buffering,Adjusts pH,All,,,N/A,
+Triethanolamine,,pH adjuster,Buffering,Adjusts pH,All,,,N/A,
+Disodium EDTA,edta|tetrasodium edta,Chelating agent,Chelating,Binds metals so the formula stays stable,All,,,N/A,
+Sodium Phytate,,Chelating agent,Chelating,Natural metal binder,All,,,N/A,
+Parfum,fragrance|perfume|aroma,Fragrance,Perfuming,Gives the cream its scent,Normal; Oily; Combination,Sensitive; Acne-prone,,N/A,Common cause of skin allergy
+Limonene,,Fragrance,Perfuming (fragrance allergen),Citrus scent component,Normal,Sensitive,,N/A,Declared allergen in the EU
+Linalool,,Fragrance,Perfuming (fragrance allergen),Floral scent component,Normal,Sensitive,,N/A,Declared allergen in the EU
+Citronellol,,Fragrance,Perfuming (fragrance allergen),Rose-like scent component,Normal,Sensitive,,N/A,Declared allergen in the EU
+Geraniol,,Fragrance,Perfuming (fragrance allergen),Rose-like scent component,Normal,Sensitive,,N/A,Declared allergen in the EU
+Hexyl Cinnamal,,Fragrance,Perfuming (fragrance allergen),Floral scent component,Normal,Sensitive,,N/A,Declared allergen in the EU
+Benzyl Alcohol,,Preservative,Preservative; perfuming,Preserves and adds light scent,All,Sensitive,,N/A,Declared allergen when used as fragrance
+Alcohol Denat.,alcohol|ethanol|sd alcohol,Solvent,Solvent,Quick-drying light feel; helps absorption,Oily,Dry; Sensitive,,N/A,High amounts can dry skin
+Hydrolyzed Collagen,collagen,Humectant,Humectant; film forming,Hydrates and smooths the skin surface,Dry; Mature; Normal,,Dryness; fine lines,Limited,Does not replace the skin's own collagen
